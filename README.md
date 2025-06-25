@@ -23,8 +23,3 @@ People can check hospital beds availibilty and check hospitals on map.
 ### [Triquetra-Hope of Life](https://triquetra-hackoverflow.herokuapp.com/)
 <br>
 
-## Contributors
-### Team Name: The Triquetra
-  1. Abhishek
-  2. Amit Mishra
-  3. Shivansh Shrivastav
