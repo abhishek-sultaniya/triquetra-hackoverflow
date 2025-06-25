@@ -16,7 +16,7 @@ botui.message.bot({
     return botui.message.bot({
         loading: true,
         delay: 1500,
-        content: "I'm  Mr Matrix,your guide.",
+        content: "I'm  Mr SIMP,your guide.",
     });
 })
 

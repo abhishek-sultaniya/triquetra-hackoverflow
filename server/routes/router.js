@@ -1,6 +1,6 @@
 const express = require('express');
 const route = express.Router()
-
+const passport=require('passport')
 const Razorpay = require('razorpay');
 const {ensureAuth,ensureGuest}=require('../middleware/auth');
 
@@ -72,12 +72,6 @@ route.get('/sux', (req,res)=>
 {
 // res.send("Crud Application by abhishek");
 res.render('sux');
-})
-
-route.get('/abouts', (req,res)=>
-{
-// res.send("Crud Application by abhishek");
-res.render('abouts');
 })
 
 
